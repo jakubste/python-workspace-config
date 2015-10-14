@@ -19,7 +19,7 @@ Python:
 
 Instalacja pythona, pipa i virtualenva:
 
-    sudo apt-get install python python-pip
+    sudo apt-get install python python-dev python-pip
     
     pip completion --bash >> ~/.bashrc
     source ~/.bashrc
