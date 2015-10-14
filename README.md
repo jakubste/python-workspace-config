@@ -53,7 +53,8 @@ Pobierz paczkę ze strony https://www.jetbrains.com/pycharm/download/
 
 Rozpakuj (ja lubię do katalogu bin w katalogu domowym). Potem:
 
-    cd bin/pycha[tab]/bin
+    cd ~/bin/pycharm[tab]/bin/
+    ./pycharm.sh
 
 Pycharm spyta się o zrobienie ikonki - zrób sobie. Jak Cię nie zapytał, to masz problem i pogooglaj ;)
 Potem go zamknij, żeby zwolnił się terminal - możesz teraz odpalać pycharma jak zwykły program
