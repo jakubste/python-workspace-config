@@ -5,7 +5,7 @@ GIT
 
     git config --global user.name "Jakub Stępak"
     git config --global user.email jakub.ste@gmail.com
-    git config --global push.default matching
+    git config --global push.default current
 
     cat ~/.ssh/id_rsa.pub
 
