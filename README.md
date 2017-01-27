@@ -31,7 +31,7 @@ Instalacja pythona, pipa i virtualenva:
     mkdir $WORKON_HOME
     echo "export WORKON_HOME=$WORKON_HOME" >> ~/.bashrc
     
-    echo "source $HOME/.local/bin/virtualenvwrapper.sh" >> ~/.bashrc
+    echo "source /usr/local/bin/virtualenvwrapper.sh" >> ~/.bashrc
     echo "export PIP_VIRTUALENV_BASE=$WORKON_HOME" >> ~/.bashrc
     source ~/.bashrc
 
